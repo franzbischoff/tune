@@ -43,6 +43,9 @@
     <loc>https://tune.tidymodels.org/dev/reference/collect_predictions.html</loc>
   </url>
   <url>
+    <loc>https://tune.tidymodels.org/dev/reference/compute_metrics.html</loc>
+  </url>
+  <url>
     <loc>https://tune.tidymodels.org/dev/reference/conf_mat_resampled.html</loc>
   </url>
   <url>
@@ -85,7 +88,13 @@
     <loc>https://tune.tidymodels.org/dev/reference/finalize_model.html</loc>
   </url>
   <url>
+    <loc>https://tune.tidymodels.org/dev/reference/fit_best.html</loc>
+  </url>
+  <url>
     <loc>https://tune.tidymodels.org/dev/reference/fit_resamples.html</loc>
+  </url>
+  <url>
+    <loc>https://tune.tidymodels.org/dev/reference/get_metric_time.html</loc>
   </url>
   <url>
     <loc>https://tune.tidymodels.org/dev/reference/index.html</loc>
