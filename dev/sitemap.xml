@@ -40,6 +40,9 @@
     <loc>https://tune.tidymodels.org/dev/reference/autoplot.tune_results.html</loc>
   </url>
   <url>
+    <loc>https://tune.tidymodels.org/dev/reference/choose_metric.html</loc>
+  </url>
+  <url>
     <loc>https://tune.tidymodels.org/dev/reference/collect_predictions.html</loc>
   </url>
   <url>
@@ -119,6 +122,9 @@
   </url>
   <url>
     <loc>https://tune.tidymodels.org/dev/reference/outcome_names.html</loc>
+  </url>
+  <url>
+    <loc>https://tune.tidymodels.org/dev/reference/parallelism.html</loc>
   </url>
   <url>
     <loc>https://tune.tidymodels.org/dev/reference/parameters.workflow.html</loc>
